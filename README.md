@@ -12,6 +12,7 @@ It is a Google Bard based Voice Assistant. [Uses the reverse engineered Bard API
 ```sh
 pip install .
 ```
+**NOTE** YOU NEED `PYTHON` INSTALLED AND IN YOUR `PATH`
 
 # Authentication
 
