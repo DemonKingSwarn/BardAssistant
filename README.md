@@ -1,4 +1,4 @@
-# BardAssistant
+# BardAssistant <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" width="35px" />
 
 It is a Google Bard based Voice Assistant. [Uses the reverse engineered Bard API](https://github.com/acheong08/Bard).
 
