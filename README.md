@@ -17,7 +17,7 @@ pip install .
 
 Go to https://bard.google.com
 
-    - hit `F12` for console
+- hit `F12` for console
     - Copy the values
         - Session: Go to Application -> Cookies -> `__Secure-1PSID` and `__Secure-1PSIDTS`. Copy the value of those cookie.
     - Paste those cookie values in the `config.json` file based on the example here [config.json.example](https://github.com/DemonKingSwarn/BardAssistant/raw/master/config.json.example)
