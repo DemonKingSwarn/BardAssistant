@@ -4,14 +4,10 @@ It is a Google Bard based Voice Assistant. [Uses the reverse engineered Bard API
 
 # Installation
 
-- [Download the Repo](https://github.com/DemonKingSwarn/BardAssistant/archive/refs/heads/master.zip)
-- Extract
-- Go to that Folder/Directory
-- Open a terminal there and run the following command
-
 ```sh
-pip install .
+pip install --upgrade BardAssistant
 ```
+
 **NOTE** YOU NEED `PYTHON` INSTALLED AND IN YOUR `PATH`
 
 # Authentication
